@@ -1,0 +1,1 @@
+<span class="percent-mia">-<?= $row['product_price_sale'] ?>%</span>
